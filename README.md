@@ -1,7 +1,10 @@
 # Mini-Projeto — Análise Exploratória da Base Varejo
 
 **Aluna:** Aline Góes Dos Santos
+
 **Turma:** T8 — Análise de Dados com Python (SCTEC) · Módulo 1 · Semana 07
+
+**Notebook no Google Colab:** https://colab.research.google.com/drive/1GHM7mq3dSQ2u2yK3a---g2g_Kq5O0d58?usp=sharing
 
 ## Objetivo
 Realizar uma Análise Exploratória de Dados (AED) de uma base de vendas de varejo: diagnosticar a qualidade dos dados, tratar apenas o que for comprovadamente problemático (com justificativa), analisar clientes, compras e categorias de produto e exportar uma base tratada (`varejo_limpo.csv`) com conclusões compreensíveis para quem não conhece Python.
@@ -105,3 +108,4 @@ A **leitura** ocorre na Sprint 1, com `pd.read_csv("Base_Varejo.csv.zip", sep=";
 - Material da disciplina: *Revisão orientada do mini-projeto — Módulo 1, Semana 07* (SCTEC).
 - Documentação do pandas: https://pandas.pydata.org/docs/
 - Base Varejo (Kaggle): https://www.kaggle.com/datasets/namespaiva/base-varejo
+
